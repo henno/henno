@@ -103,18 +103,14 @@ I'm **Henno Täht**, a software engineer and educator from Estonia. I teach web 
 | [cookbook](https://bitbucket.org/diarainfra/cookbook) 🔒 | Recipe and cooking management | 2025 |
 | [lecture-recording-dashboard](https://github.com/henno/lecture-recording-dashboard) | Web dashboard for Zoom lecture recordings with Timebolt detection | 2025–2026 |
 | [palgagraafik-loco](https://github.com/henno/palgagraafik-loco) | Payroll app built with Loco.rs | 2025 |
-| [airbnb-andmebaas](https://github.com/henno/airbnb-andmebaas) | Airbnb database teaching project | 2025 |
 | [sitemgr](https://github.com/henno/sitemgr) | Site management tool | 2025 |
 | [forensic-database](https://github.com/henno/forensic-database) | Forensic database teaching project | 2025 |
 | [bitbucket-manager](https://github.com/henno/bitbucket-manager) | Bitbucket repository management tool | 2025 |
-| [cv](https://github.com/henno/cv) 🔒 | Personal CV | 2025 |
 | [riidaja-ylesanded](https://github.com/henno/riidaja-ylesanded) | Programming exercises | 2025–2026 |
 | [api-validator](https://github.com/henno/api-validator) | API validation tool | 2025 |
-| [otseteed](https://github.com/henno/otseteed) | Keyboard shortcuts reference | 2025 |
 | [eero-panga-validaator](https://github.com/henno/eero-panga-validaator) | Bank validator tool | 2025 |
 | [opetaja-assistent2](https://github.com/kriit-eu/opetaja-assistent2) 🔒 | Chrome extension helping teachers fill in Tahvel.edu.ee journals | 2025 |
 | [refreshdb](https://github.com/henno/refreshdb) | Database refresh utility | 2025 |
-| [cidr-calculator](https://github.com/henno/cidr-calculator) | CIDR calculator | 2025 |
 | [gildivara.ee-v2](https://github.com/henno/gildivara.ee-v2) 🔒 | Gildivara website v2 | 2025 |
 | [gildivara.ee](https://github.com/henno/gildivara.ee) 🔒 | Gildivara website | 2025 |
 | [kriit](https://github.com/kriit-eu/kriit) 🔒 | Entrance exam and assignment management for IT vocational programs | 2024–2026 |
