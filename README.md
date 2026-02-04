@@ -90,14 +90,12 @@ I'm **Henno Täht**, a software engineer and educator from Estonia. I teach web 
 | [loputoo-generaator](https://github.com/henno/loputoo-generaator) | VIKK formaadis lõputöö generaator Pandoc ja LaTeX abil | 2026 |
 | [wireguard-multi](https://github.com/henno/wireguard-multi) | WireGuard GUI for macOS with multiple simultaneous tunnels | 2026 |
 | [kriit-grading](https://github.com/kriit-eu/kriit-grading) | AI grading assistant for Kriit learning management system | 2026 |
-| [ART](https://github.com/henno/ART) | Automated Response Testing | 2025 |
 | [ruckus](https://github.com/henno/ruckus) | Ruckus AP CLI debug tool - supports rkscli and Unleashed modes | 2025 |
 | [zyxel](https://github.com/henno/zyxel) | Zyxel switch CLI tool for executing commands via SSH | 2025 |
 | [mt](https://github.com/henno/mt) | Mikrotik CLI tool for executing RouterOS API commands | 2025 |
 | [sstp-docker](https://github.com/henno/sstp-docker) | SSTP VPN Docker container for Alpine Linux | 2025 |
 | [energiasaastukonsultant](https://github.com/henno/energiasaastukonsultant) 🔒 | Energy consultant website | 2025 |
 | [ariklubi](https://github.com/henno/ariklubi) 🔒 | Business club platform | 2025 |
-| [ariklubi.riiska.ee](https://github.com/henno/ariklubi.riiska.ee) 🔒 | Business club website | 2025 |
 | [bun-topology](https://github.com/henno/bun-topology) | Network topology discovery tool - Web UI with Bun | 2025 |
 | [go-topology](https://github.com/henno/go-topology) | Network topology discovery tool - Web UI with Go | 2025 |
 | [pp-finar](https://github.com/Puhastusproff/pp-finar) 🔒 | ERP system: budgets, salaries, clients, assets | 2025–2026 |
@@ -110,7 +108,6 @@ I'm **Henno Täht**, a software engineer and educator from Estonia. I teach web 
 | [forensic-database](https://github.com/henno/forensic-database) | Forensic database teaching project | 2025 |
 | [bitbucket-manager](https://github.com/henno/bitbucket-manager) | Bitbucket repository management tool | 2025 |
 | [cv](https://github.com/henno/cv) 🔒 | Personal CV | 2025 |
-| [FluxFinance](https://github.com/henno/FluxFinance) | An accounting app | 2025 |
 | [riidaja-ylesanded](https://github.com/henno/riidaja-ylesanded) | Programming exercises | 2025–2026 |
 | [api-validator](https://github.com/henno/api-validator) | API validation tool | 2025 |
 | [otseteed](https://github.com/henno/otseteed) | Keyboard shortcuts reference | 2025 |
@@ -120,7 +117,6 @@ I'm **Henno Täht**, a software engineer and educator from Estonia. I teach web 
 | [cidr-calculator](https://github.com/henno/cidr-calculator) | CIDR calculator | 2025 |
 | [gildivara.ee-v2](https://github.com/henno/gildivara.ee-v2) 🔒 | Gildivara website v2 | 2025 |
 | [gildivara.ee](https://github.com/henno/gildivara.ee) 🔒 | Gildivara website | 2025 |
-| [gildivara-signatuur](https://github.com/henno/gildivara-signatuur) | Email signature generator | 2025 |
 | [kriit](https://github.com/kriit-eu/kriit) 🔒 | Entrance exam and assignment management for IT vocational programs | 2024–2026 |
 | [opetaja-assistent](https://github.com/kriit-eu/opetaja-assistent) 🔒 | Chrome extension helping teachers fill in Tahvel.edu.ee journals | 2024–2025 |
 | [halo](https://github.com/henno/halo) | Basic MVC framework | 2013–2025 |
