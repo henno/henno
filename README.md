@@ -72,8 +72,8 @@ I'm **Henno Täht**, a software engineer and educator from Estonia. I teach web 
 
 ## 🔧 Projects
 
-| Repository | Description | Year |
-|------------|-------------|------|
+| Repository | Description | Years |
+|------------|-------------|-------|
 | [mikrotik-network-transparency](https://github.com/henno/mikrotik-network-transparency) | CLI tool for discovering and visualizing network topology from Mikrotik devices | 2026 |
 | [zoom-gallery-rust](https://github.com/henno/zoom-gallery-rust) | Zoom cloud recordings browser built with Rust and Axum | 2026 |
 | [scoromaventa](https://github.com/henno/scoromaventa) | Scoro to Maventa e-invoicing integration | 2026 |
@@ -100,10 +100,10 @@ I'm **Henno Täht**, a software engineer and educator from Estonia. I teach web 
 | [ariklubi.riiska.ee](https://github.com/henno/ariklubi.riiska.ee) 🔒 | Business club website | 2025 |
 | [bun-topology](https://github.com/henno/bun-topology) | Network topology discovery tool - Web UI with Bun | 2025 |
 | [go-topology](https://github.com/henno/go-topology) | Network topology discovery tool - Web UI with Go | 2025 |
-| [pp-finar](https://github.com/Puhastusproff/pp-finar) 🔒 | ERP system: budgets, salaries, clients, assets | 2025 |
-| [ruckus-unleashed-migration](https://github.com/henno/ruckus-unleashed-migration) 🔒 | Ruckus Unleashed migration tool | 2025 |
+| [pp-finar](https://github.com/Puhastusproff/pp-finar) 🔒 | ERP system: budgets, salaries, clients, assets | 2025–2026 |
+| [ruckus-unleashed-migration](https://github.com/henno/ruckus-unleashed-migration) 🔒 | Ruckus Unleashed migration tool | 2025–2026 |
 | [cookbook](https://bitbucket.org/diarainfra/cookbook) 🔒 | Recipe and cooking management | 2025 |
-| [lecture-recording-dashboard](https://github.com/henno/lecture-recording-dashboard) | Web dashboard for Zoom lecture recordings with Timebolt detection | 2025 |
+| [lecture-recording-dashboard](https://github.com/henno/lecture-recording-dashboard) | Web dashboard for Zoom lecture recordings with Timebolt detection | 2025–2026 |
 | [palgagraafik-loco](https://github.com/henno/palgagraafik-loco) | Payroll app built with Loco.rs | 2025 |
 | [airbnb-andmebaas](https://github.com/henno/airbnb-andmebaas) | Airbnb database teaching project | 2025 |
 | [sitemgr](https://github.com/henno/sitemgr) | Site management tool | 2025 |
@@ -111,7 +111,7 @@ I'm **Henno Täht**, a software engineer and educator from Estonia. I teach web 
 | [bitbucket-manager](https://github.com/henno/bitbucket-manager) | Bitbucket repository management tool | 2025 |
 | [cv](https://github.com/henno/cv) 🔒 | Personal CV | 2025 |
 | [FluxFinance](https://github.com/henno/FluxFinance) | An accounting app | 2025 |
-| [riidaja-ylesanded](https://github.com/henno/riidaja-ylesanded) | Programming exercises | 2025 |
+| [riidaja-ylesanded](https://github.com/henno/riidaja-ylesanded) | Programming exercises | 2025–2026 |
 | [api-validator](https://github.com/henno/api-validator) | API validation tool | 2025 |
 | [otseteed](https://github.com/henno/otseteed) | Keyboard shortcuts reference | 2025 |
 | [eero-panga-validaator](https://github.com/henno/eero-panga-validaator) | Bank validator tool | 2025 |
@@ -121,9 +121,9 @@ I'm **Henno Täht**, a software engineer and educator from Estonia. I teach web 
 | [gildivara.ee-v2](https://github.com/henno/gildivara.ee-v2) 🔒 | Gildivara website v2 | 2025 |
 | [gildivara.ee](https://github.com/henno/gildivara.ee) 🔒 | Gildivara website | 2025 |
 | [gildivara-signatuur](https://github.com/henno/gildivara-signatuur) | Email signature generator | 2025 |
-| [kriit](https://github.com/kriit-eu/kriit) 🔒 | Entrance exam and assignment management for IT vocational programs | 2024 |
-| [opetaja-assistent](https://github.com/kriit-eu/opetaja-assistent) 🔒 | Chrome extension helping teachers fill in Tahvel.edu.ee journals | 2024 |
-| [halo](https://github.com/henno/halo) | Basic MVC framework | 2013 |
+| [kriit](https://github.com/kriit-eu/kriit) 🔒 | Entrance exam and assignment management for IT vocational programs | 2024–2026 |
+| [opetaja-assistent](https://github.com/kriit-eu/opetaja-assistent) 🔒 | Chrome extension helping teachers fill in Tahvel.edu.ee journals | 2024–2025 |
+| [halo](https://github.com/henno/halo) | Basic MVC framework | 2013–2025 |
 
 *🔒 Private repository – contact me for access*
 
