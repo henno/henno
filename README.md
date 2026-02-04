@@ -70,101 +70,62 @@ I'm **Henno Täht**, a software engineer and educator from Estonia. I teach web 
 ![WireGuard](https://img.shields.io/badge/-WireGuard-88171A?style=flat&logo=wireguard&logoColor=white)
 ![OpenVPN](https://img.shields.io/badge/-OpenVPN-EA7E20?style=flat&logo=openvpn&logoColor=white)
 
-## 🔧 Featured Projects
+## 🔧 Projects
 
-### Network Administration Tools
-
-| Repository | Description | Tech | Years |
-|------------|-------------|------|-------|
-| [ithaldus](https://github.com/ithaldus/ithaldus) | Network topology discovery and visualization for municipal institutions | TypeScript, React, Bun | 2026 |
-| [ruckus](https://github.com/henno/ruckus) | CLI debug tool for Ruckus APs - supports rkscli and Unleashed modes | Go | 2025 |
-| [zyxel](https://github.com/henno/zyxel) | Zyxel switch CLI tool for executing commands via SSH | Go | 2025 |
-| [wireguard-multi](https://github.com/henno/wireguard-multi) | WireGuard GUI for macOS with multiple simultaneous tunnels support | Rust | 2026 |
-
-### Educational Tools
-
-| Repository | Description | Tech | Years |
-|------------|-------------|------|-------|
-| [loputoo-generaator](https://github.com/henno/loputoo-generaator) | Thesis generator for VIKK format using Pandoc and LaTeX | TypeScript | 2026 |
-| [kriit](https://github.com/kriit-eu/kriit) 🔒 | Entrance exam and assignment management for IT vocational programs | JavaScript | 2024–Present |
-| [kriit-grading](https://github.com/kriit-eu/kriit-grading) | AI grading assistant for Kriit LMS | TypeScript | 2026 |
-| [opetaja-assistent](https://github.com/kriit-eu/opetaja-assistent) 🔒 | Chrome extension helping teachers fill in Tahvel.edu.ee journals | TypeScript | 2024–2025 |
-| [andmebaaside-alused](https://github.com/henno/andmebaaside-alused) | Database fundamentals teaching materials | JavaScript | 2026 |
-
-### Web Applications
-
-| Repository | Description | Tech | Years |
-|------------|-------------|------|-------|
-| [scoromaventa](https://github.com/henno/scoromaventa) | Scoro to Maventa e-invoicing integration | PHP | 2021–Present |
-| [pp-finar](https://github.com/Puhastusproff/pp-finar) 🔒 | ERP system for cleaning company: budgets, salaries, clients, assets | PHP | 2025–Present |
-| [halo](https://github.com/henno/halo) | Basic MVC framework | PHP | 2013–2025 |
-| [lecture-recording-dashboard](https://github.com/henno/lecture-recording-dashboard) | Dashboard for Zoom lecture recordings with Timebolt detection | TypeScript | 2025–Present |
-| [uptime](https://github.com/henno/uptime) | TCP port monitor with website keyword checks and email alerts | PHP | 2013 |
-| [bitbucket-manager](https://github.com/henno/bitbucket-manager) | Bitbucket repository management tool | JavaScript | 2025 |
+| Repository | Description | Year |
+|------------|-------------|------|
+| [mikrotik-network-transparency](https://github.com/henno/mikrotik-network-transparency) | CLI tool for discovering and visualizing network topology from Mikrotik devices | 2026 |
+| [zoom-gallery-rust](https://github.com/henno/zoom-gallery-rust) | Zoom cloud recordings browser built with Rust and Axum | 2026 |
+| [scoromaventa](https://github.com/henno/scoromaventa) | Scoro to Maventa e-invoicing integration | 2026 |
+| [topograph](https://github.com/Torva-Vallavalitsus/topograph) 🔒 | Network topology discovery and visualization | 2026 |
+| [ow](https://github.com/Puhastusproff/ow) 🔒 | OstuWeb - ostuarvete haldus | 2026 |
+| [saf-web](https://github.com/Puhastusproff/saf-web) 🔒 | SAF - moodne .NET Core veebirakendus | 2026 |
+| [sw](https://github.com/Puhastusproff/sw) 🔒 | PuhastusProff intra - töötajate siseveeb | 2026 |
+| [tihas](https://github.com/Torva-Vallavalitsus/tihas) 🔒 | IT asset management system | 2026 |
+| [ithaldus](https://github.com/ithaldus/ithaldus) | Network topology discovery and visualization | 2026 |
+| [avif-comparison](https://github.com/henno/avif-comparison) | Web-based tool for comparing AVIF, WebP, PNG, JPEG compression | 2026 |
+| [diarabooks](https://github.com/diarainfra/diarabooks) 🔒 | Accounting and bookkeeping | 2026 |
+| [andmebaaside-alused](https://github.com/henno/andmebaaside-alused) | Database fundamentals teaching materials | 2026 |
+| [db2.diarainfra.com](https://github.com/henno/db2.diarainfra.com) 🔒 | Database management | 2026 |
+| [loputoo-generaator](https://github.com/henno/loputoo-generaator) | VIKK formaadis lõputöö generaator Pandoc ja LaTeX abil | 2026 |
+| [wireguard-multi](https://github.com/henno/wireguard-multi) | WireGuard GUI for macOS with multiple simultaneous tunnels | 2026 |
+| [kriit-grading](https://github.com/kriit-eu/kriit-grading) | AI grading assistant for Kriit learning management system | 2026 |
+| [ART](https://github.com/henno/ART) | Automated Response Testing | 2025 |
+| [ruckus](https://github.com/henno/ruckus) | Ruckus AP CLI debug tool - supports rkscli and Unleashed modes | 2025 |
+| [zyxel](https://github.com/henno/zyxel) | Zyxel switch CLI tool for executing commands via SSH | 2025 |
+| [mt](https://github.com/henno/mt) | Mikrotik CLI tool for executing RouterOS API commands | 2025 |
+| [sstp-docker](https://github.com/henno/sstp-docker) | SSTP VPN Docker container for Alpine Linux | 2025 |
+| [energiasaastukonsultant](https://github.com/henno/energiasaastukonsultant) 🔒 | Energy consultant website | 2025 |
+| [ariklubi](https://github.com/henno/ariklubi) 🔒 | Business club platform | 2025 |
+| [ariklubi.riiska.ee](https://github.com/henno/ariklubi.riiska.ee) 🔒 | Business club website | 2025 |
+| [bun-topology](https://github.com/henno/bun-topology) | Network topology discovery tool - Web UI with Bun | 2025 |
+| [go-topology](https://github.com/henno/go-topology) | Network topology discovery tool - Web UI with Go | 2025 |
+| [pp-finar](https://github.com/Puhastusproff/pp-finar) 🔒 | ERP system: budgets, salaries, clients, assets | 2025 |
+| [ruckus-unleashed-migration](https://github.com/henno/ruckus-unleashed-migration) 🔒 | Ruckus Unleashed migration tool | 2025 |
+| [cookbook](https://bitbucket.org/diarainfra/cookbook) 🔒 | Recipe and cooking management | 2025 |
+| [lecture-recording-dashboard](https://github.com/henno/lecture-recording-dashboard) | Web dashboard for Zoom lecture recordings with Timebolt detection | 2025 |
+| [palgagraafik-loco](https://github.com/henno/palgagraafik-loco) | Payroll app built with Loco.rs | 2025 |
+| [airbnb-andmebaas](https://github.com/henno/airbnb-andmebaas) | Airbnb database teaching project | 2025 |
+| [sitemgr](https://github.com/henno/sitemgr) | Site management tool | 2025 |
+| [forensic-database](https://github.com/henno/forensic-database) | Forensic database teaching project | 2025 |
+| [bitbucket-manager](https://github.com/henno/bitbucket-manager) | Bitbucket repository management tool | 2025 |
+| [cv](https://github.com/henno/cv) 🔒 | Personal CV | 2025 |
+| [FluxFinance](https://github.com/henno/FluxFinance) | An accounting app | 2025 |
+| [riidaja-ylesanded](https://github.com/henno/riidaja-ylesanded) | Programming exercises | 2025 |
+| [api-validator](https://github.com/henno/api-validator) | API validation tool | 2025 |
+| [otseteed](https://github.com/henno/otseteed) | Keyboard shortcuts reference | 2025 |
+| [eero-panga-validaator](https://github.com/henno/eero-panga-validaator) | Bank validator tool | 2025 |
+| [opetaja-assistent2](https://github.com/kriit-eu/opetaja-assistent2) 🔒 | Chrome extension helping teachers fill in Tahvel.edu.ee journals | 2025 |
+| [refreshdb](https://github.com/henno/refreshdb) | Database refresh utility | 2025 |
+| [cidr-calculator](https://github.com/henno/cidr-calculator) | CIDR calculator | 2025 |
+| [gildivara.ee-v2](https://github.com/henno/gildivara.ee-v2) 🔒 | Gildivara website v2 | 2025 |
+| [gildivara.ee](https://github.com/henno/gildivara.ee) 🔒 | Gildivara website | 2025 |
+| [gildivara-signatuur](https://github.com/henno/gildivara-signatuur) | Email signature generator | 2025 |
+| [kriit](https://github.com/kriit-eu/kriit) 🔒 | Entrance exam and assignment management for IT vocational programs | 2024 |
+| [opetaja-assistent](https://github.com/kriit-eu/opetaja-assistent) 🔒 | Chrome extension helping teachers fill in Tahvel.edu.ee journals | 2024 |
+| [halo](https://github.com/henno/halo) | Basic MVC framework | 2013 |
 
 *🔒 Private repository – contact me for access*
-
-### Bitbucket Projects (Diara OÜ era)
-
-| Repository | Description | Tech | Years |
-|------------|-------------|------|-------|
-| [sol-johla](https://bitbucket.org/diara/sol-johla) 🔒 | Budgeting and management system for SOL Eesti OÜ | PHP | 2012–2021 |
-| [adair](https://bitbucket.org/diara/adair) 🔒 | Work management system with call center integration | PHP | 2012–2013 |
-| [teonas](https://bitbucket.org/diara/teonas) 🔒 | IT infrastructure database | PHP | 2012–2013 |
-| [eteenused-cms](https://bitbucket.org/diara/eteenused-cms) 🔒 | Content Management System | PHP | 2012–2014 |
-| [bcg-ekodu](https://bitbucket.org/diara/bcg-ekodu) 🔒 | Online condominium infosystem | PHP | 2012–2013 |
-| [sol-web](https://bitbucket.org/diara/sol-web) 🔒 | Sol.ee webpage | PHP | 2012–2014 |
-| [sol-extranet-lv](https://bitbucket.org/diara/sol-extranet-lv) 🔒 | Latvian SOL extranet | PHP | 2012–2017 |
-| [sol-extranet-seb](https://bitbucket.org/diara/sol-extranet-seb) 🔒 | SEB extranet | PHP | 2012–2016 |
-| [sol-extranet-selver](https://bitbucket.org/diara/sol-extranet-selver) 🔒 | Selver extranet | PHP | 2013 |
-| [sol-extranet-edel](https://bitbucket.org/diara/sol-extranet-edel) 🔒 | Edelaraudtee extranet | PHP | 2012–2013 |
-| [sol-extranet-homburg](https://bitbucket.org/diara/sol-extranet-homburg) 🔒 | Homburg extranet | PHP | 2012–2013 |
-| [sol-koidula](https://bitbucket.org/diara/sol-koidula) 🔒 | Room reservation system for SOL Koidula border point | PHP | 2012 |
-| [sol-kalender](https://bitbucket.org/diara/sol-kalender) 🔒 | Calendar system | PHP | 2012–2013 |
-| [sol-intranet](https://bitbucket.org/diara/sol-intranet) 🔒 | SOL intranet | PHP | 2013 |
-| [personaliportaal](https://bitbucket.org/diara/personaliportaal) 🔒 | SOL OÜ personnel portal | PHP | 2012 |
-| [asterol-haldaja](https://bitbucket.org/diara/asterol-haldaja) 🔒 | Asterol project management | PHP | 2012–2013 |
-| [monty](https://bitbucket.org/diara/monty) 🔒 | Budget management for construction work | PHP | 2012 |
-| [filecloud](https://bitbucket.org/diara/filecloud) 🔒 | File storage system (DropBox-like) | PHP | 2012 |
-| [piletimaailm-reklaam](https://bitbucket.org/diara/piletimaailm-reklaam) 🔒 | Piletimaailm advertising platform | PHP | 2012–2013 |
-| [piletimaailm-pi](https://bitbucket.org/diara/piletimaailm-pi) 🔒 | Raspberry Pi software for Piletimaailm | Python | 2013 |
-| [rec-sienna](https://bitbucket.org/diara/rec-sienna) 🔒 | Real estate management tool | PHP | 2013 |
-| [ritsu-audit](https://bitbucket.org/diara/ritsu-audit) 🔒 | IT assets and licenses database | PHP | 2013 |
-| [hd-oreolis](https://bitbucket.org/diara/hd-oreolis) 🔒 | Hansa Digital SaaS project | PHP | 2013 |
-| [nordlin-web](https://bitbucket.org/diara/nordlin-web) 🔒 | Nordlin website | PHP | 2012–2013 |
-| [eka-art-and-science](https://bitbucket.org/diara/eka-art-and-science) 🔒 | Art and Science exposition site | PHP | 2012–2013 |
-| [rahuoja-web](https://bitbucket.org/diara/rahuoja-web) 🔒 | rahuoja.ee website | PHP | 2012 |
-| [kohana-audit](https://bitbucket.org/diara/kohana-audit) | Audit/logging module for Kohana 3.2 | PHP | 2012 |
-| [servers](https://bitbucket.org/diara/servers) 🔒 | Server configuration and scripts | Shell | 2013 |
-
-### Bitbucket Projects (Diara Infra OÜ era)
-
-| Repository | Description | Tech | Years |
-|------------|-------------|------|-------|
-| [diarainfra.com](https://bitbucket.org/diarainfra/diarainfra.com) 🔒 | Diara Infra company website | PHP | 2014–2023 |
-| [ritsu-erp](https://bitbucket.org/diarainfra/ritsu-erp) 🔒 | Sales CRM for quotes and clients | PHP | 2015 |
-| [puukool](https://bitbucket.org/diarainfra/puukool) 🔒 | Wholesale platform for Hansaplant OÜ | PHP | 2015–2019 |
-| [tpl-www](https://bitbucket.org/diarainfra/tpl-www) 🔒 | Tartumaa Põllumeeste Liit website | PHP | 2015–2016 |
-| [pennipress](https://bitbucket.org/diarainfra/pennipress) 🔒 | pennipress.ee | PHP | 2015 |
-| [sol-kalender2](https://bitbucket.org/diarainfra/sol-kalender2) | Calendar system v2 | PHP | 2016–2017 |
-| [ehituspaevik](https://bitbucket.org/diarainfra/ehituspaevik) 🔒 | Construction diary | PHP | 2018 |
-| [perekaart](https://bitbucket.org/diarainfra/perekaart) 🔒 | Family card system | PHP | 2018 |
-| [kyyrix-frontend](https://bitbucket.org/diarainfra/kyyrix-frontend) 🔒 | Kyyrix frontend | JavaScript | 2019–2020 |
-| [intranet_kyyrix](https://bitbucket.org/diarainfra/intranet_kyyrix) | Company intranet system | JavaScript | 2021–2022 |
-| [db2.diarainfra.com](https://bitbucket.org/diarainfra/db2.diarainfra.com) 🔒 | Database management | PHP | 2024–Present |
-| [db3.diarainfra.com](https://bitbucket.org/diarainfra/db3.diarainfra.com) 🔒 | Database management | PHP | 2015–Present |
-
-### Bitbucket Projects (Personal)
-
-| Repository | Description | Tech | Years |
-|------------|-------------|------|-------|
-| [khk-veebiarendus](https://bitbucket.org/hennot/khk-veebiarendus) | KHK web development teaching materials | PHP | 2013 |
-| [investoritegrupp-web](https://bitbucket.org/hennot/investoritegrupp-web) 🔒 | www.investoritegrupp.ee | PHP | 2014 |
-| [energiasaastukonsultant](https://bitbucket.org/hennot/energiasaastukonsultant) 🔒 | Energy consultant website | PHP | 2017 |
-| [ala-kooli-veebileht](https://bitbucket.org/hennot/ala-kooli-veebileht) 🔒 | School website | PHP | 2018–2020 |
-| [kyyrix-backend](https://bitbucket.org/hennot/kyyrix-backend) 🔒 | Kyyrix backend | PHP | 2019–2020 |
-| [keskpank-vso](https://bitbucket.org/hennot/keskpank-vso) | Central bank VSO project | PHP | 2020 |
-| [intranet](https://bitbucket.org/hennot/intranet) 🔒 | Intranet system | PHP | 2021 |
 
 ## 🏢 Organizations
 
