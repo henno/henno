@@ -76,17 +76,17 @@ I'm **Henno Täht**, a software engineer and educator from Estonia. I teach web 
 |------------|-------------|-------|
 | [mikrotik-network-transparency](https://github.com/henno/mikrotik-network-transparency) | CLI tool for discovering and visualizing network topology from Mikrotik devices | 2026 |
 | [zoom-gallery-rust](https://github.com/henno/zoom-gallery-rust) | Zoom cloud recordings browser built with Rust and Axum | 2026 |
-| [scoromaventa](https://github.com/henno/scoromaventa) | Scoro to Maventa e-invoicing integration | 2026 |
-| [topograph](https://github.com/Torva-Vallavalitsus/topograph) 🔒 | Network topology discovery and visualization | 2026 |
+| [scoromaventa](https://github.com/henno/scoromaventa) | Scoro to Maventa e-invoicing integration | 2021–2023 |
+| [topograph](https://github.com/Torva-Vallavalitsus/topograph) 🔒 | Network topology discovery and visualization | 2025–2026 |
 | [ow](https://github.com/Puhastusproff/ow) 🔒 | OstuWeb - ostuarvete haldus | 2026 |
 | [saf-web](https://github.com/Puhastusproff/saf-web) 🔒 | SAF - moodne .NET Core veebirakendus | 2026 |
 | [sw](https://github.com/Puhastusproff/sw) 🔒 | PuhastusProff intra - töötajate siseveeb | 2026 |
-| [tihas](https://github.com/Torva-Vallavalitsus/tihas) 🔒 | IT asset management system | 2026 |
-| [ithaldus](https://github.com/ithaldus/ithaldus) | Network topology discovery and visualization | 2026 |
+| [tihas](https://github.com/Torva-Vallavalitsus/tihas) 🔒 | IT asset management system | 2025–2026 |
+| [ithaldus](https://github.com/ithaldus/ithaldus) | Network topology discovery and visualization | 2025–2026 |
 | [avif-comparison](https://github.com/henno/avif-comparison) | Web-based tool for comparing AVIF, WebP, PNG, JPEG compression | 2026 |
 | [diarabooks](https://github.com/diarainfra/diarabooks) 🔒 | Accounting and bookkeeping | 2026 |
 | [andmebaaside-alused](https://github.com/henno/andmebaaside-alused) | Database fundamentals teaching materials | 2026 |
-| [db2.diarainfra.com](https://github.com/henno/db2.diarainfra.com) 🔒 | Database management | 2026 |
+| [db2.diarainfra.com](https://github.com/henno/db2.diarainfra.com) 🔒 | Database management | 2009–2026 |
 | [loputoo-generaator](https://github.com/henno/loputoo-generaator) | VIKK formaadis lõputöö generaator Pandoc ja LaTeX abil | 2026 |
 | [wireguard-multi](https://github.com/henno/wireguard-multi) | WireGuard GUI for macOS with multiple simultaneous tunnels | 2026 |
 | [kriit-grading](https://github.com/kriit-eu/kriit-grading) | AI grading assistant for Kriit learning management system | 2026 |
@@ -94,11 +94,11 @@ I'm **Henno Täht**, a software engineer and educator from Estonia. I teach web 
 | [zyxel](https://github.com/henno/zyxel) | Zyxel switch CLI tool for executing commands via SSH | 2025 |
 | [mt](https://github.com/henno/mt) | Mikrotik CLI tool for executing RouterOS API commands | 2025 |
 | [sstp-docker](https://github.com/henno/sstp-docker) | SSTP VPN Docker container for Alpine Linux | 2025 |
-| [energiasaastukonsultant](https://github.com/henno/energiasaastukonsultant) 🔒 | Energy consultant website | 2025 |
+| [energiasaastukonsultant](https://github.com/henno/energiasaastukonsultant) 🔒 | Energy consultant website | 2017–2025 |
 | [ariklubi](https://github.com/henno/ariklubi) 🔒 | Business club platform | 2025 |
 | [bun-topology](https://github.com/henno/bun-topology) | Network topology discovery tool - Web UI with Bun | 2025 |
 | [go-topology](https://github.com/henno/go-topology) | Network topology discovery tool - Web UI with Go | 2025 |
-| [pp-finar](https://github.com/Puhastusproff/pp-finar) 🔒 | ERP system: budgets, salaries, clients, assets | 2025–2026 |
+| [pp-finar](https://github.com/Puhastusproff/pp-finar) 🔒 | ERP system: budgets, salaries, clients, assets | 2005–2026 |
 | [ruckus-unleashed-migration](https://github.com/henno/ruckus-unleashed-migration) 🔒 | Ruckus Unleashed migration tool | 2025–2026 |
 | [cookbook](https://bitbucket.org/diarainfra/cookbook) 🔒 | Recipe and cooking management | 2025 |
 | [lecture-recording-dashboard](https://github.com/henno/lecture-recording-dashboard) | Web dashboard for Zoom lecture recordings with Timebolt detection | 2025–2026 |
@@ -109,12 +109,12 @@ I'm **Henno Täht**, a software engineer and educator from Estonia. I teach web 
 | [riidaja-ylesanded](https://github.com/henno/riidaja-ylesanded) | Programming exercises | 2025–2026 |
 | [api-validator](https://github.com/henno/api-validator) | API validation tool | 2025 |
 | [eero-panga-validaator](https://github.com/henno/eero-panga-validaator) | Bank validator tool | 2025 |
-| [opetaja-assistent2](https://github.com/kriit-eu/opetaja-assistent2) 🔒 | Chrome extension helping teachers fill in Tahvel.edu.ee journals | 2025 |
+| [opetaja-assistent2](https://github.com/kriit-eu/opetaja-assistent2) 🔒 | Chrome extension helping teachers fill in Tahvel.edu.ee journals | 2025–2026 |
 | [refreshdb](https://github.com/henno/refreshdb) | Database refresh utility | 2025 |
 | [gildivara.ee-v2](https://github.com/henno/gildivara.ee-v2) 🔒 | Gildivara website v2 | 2025 |
 | [gildivara.ee](https://github.com/henno/gildivara.ee) 🔒 | Gildivara website | 2025 |
 | [kriit](https://github.com/kriit-eu/kriit) 🔒 | Entrance exam and assignment management for IT vocational programs | 2024–2026 |
-| [opetaja-assistent](https://github.com/kriit-eu/opetaja-assistent) 🔒 | Chrome extension helping teachers fill in Tahvel.edu.ee journals | 2024–2025 |
+| [opetaja-assistent](https://github.com/kriit-eu/opetaja-assistent) 🔒 | Chrome extension helping teachers fill in Tahvel.edu.ee journals | 2023–2025 |
 | [halo](https://github.com/henno/halo) | Basic MVC framework | 2013–2025 |
 
 *🔒 Private repository – contact me for access*
