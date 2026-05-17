@@ -74,48 +74,48 @@ I'm **Henno Täht**, a software engineer and educator from Estonia. I teach web 
 
 | Repository | Description | Years |
 |------------|-------------|-------|
-| [mikrotik-network-transparency](https://github.com/henno/mikrotik-network-transparency) | CLI tool for discovering and visualizing network topology from Mikrotik devices | 2026 |
-| [zoom-gallery-rust](https://github.com/henno/zoom-gallery-rust) | Zoom cloud recordings browser built with Rust and Axum | 2026 |
-| [scoromaventa](https://github.com/henno/scoromaventa) | Scoro to Maventa e-invoicing integration | 2026 |
-| [topograph](https://github.com/Torva-Vallavalitsus/topograph) 🔒 | Network topology discovery and visualization | 2026 |
-| [ow](https://github.com/Puhastusproff/ow) 🔒 | OstuWeb - ostuarvete haldus | 2026 |
-| [saf-web](https://github.com/Puhastusproff/saf-web) 🔒 | SAF - moodne .NET Core veebirakendus | 2026 |
-| [sw](https://github.com/Puhastusproff/sw) 🔒 | PuhastusProff intra - töötajate siseveeb | 2026 |
-| [tihas](https://github.com/Torva-Vallavalitsus/tihas) 🔒 | IT asset management system | 2026 |
-| [ithaldus](https://github.com/ithaldus/ithaldus) | Network topology discovery and visualization | 2026 |
-| [avif-comparison](https://github.com/henno/avif-comparison) | Web-based tool for comparing AVIF, WebP, PNG, JPEG compression | 2026 |
-| [diarabooks](https://github.com/diarainfra/diarabooks) 🔒 | Accounting and bookkeeping | 2026 |
-| [andmebaaside-alused](https://github.com/henno/andmebaaside-alused) | Database fundamentals teaching materials | 2026 |
-| [db2.diarainfra.com](https://github.com/henno/db2.diarainfra.com) 🔒 | Database management | 2026 |
-| [loputoo-generaator](https://github.com/henno/loputoo-generaator) | VIKK formaadis lõputöö generaator Pandoc ja LaTeX abil | 2026 |
-| [wireguard-multi](https://github.com/henno/wireguard-multi) | WireGuard GUI for macOS with multiple simultaneous tunnels | 2026 |
-| [kriit-grading](https://github.com/kriit-eu/kriit-grading) | AI grading assistant for Kriit learning management system | 2026 |
-| [ruckus](https://github.com/henno/ruckus) | Ruckus AP CLI debug tool - supports rkscli and Unleashed modes | 2025 |
-| [zyxel](https://github.com/henno/zyxel) | Zyxel switch CLI tool for executing commands via SSH | 2025 |
-| [mt](https://github.com/henno/mt) | Mikrotik CLI tool for executing RouterOS API commands | 2025 |
-| [sstp-docker](https://github.com/henno/sstp-docker) | SSTP VPN Docker container for Alpine Linux | 2025 |
-| [energiasaastukonsultant](https://github.com/henno/energiasaastukonsultant) 🔒 | Energy consultant website | 2025 |
-| [ariklubi](https://github.com/henno/ariklubi) 🔒 | Business club platform | 2025 |
-| [bun-topology](https://github.com/henno/bun-topology) | Network topology discovery tool - Web UI with Bun | 2025 |
-| [go-topology](https://github.com/henno/go-topology) | Network topology discovery tool - Web UI with Go | 2025 |
-| [pp-finar](https://github.com/Puhastusproff/pp-finar) 🔒 | ERP system: budgets, salaries, clients, assets | 2025–2026 |
-| [ruckus-unleashed-migration](https://github.com/henno/ruckus-unleashed-migration) 🔒 | Ruckus Unleashed migration tool | 2025–2026 |
-| [cookbook](https://bitbucket.org/diarainfra/cookbook) 🔒 | Recipe and cooking management | 2025 |
-| [lecture-recording-dashboard](https://github.com/henno/lecture-recording-dashboard) | Web dashboard for Zoom lecture recordings with Timebolt detection | 2025–2026 |
-| [palgagraafik-loco](https://github.com/henno/palgagraafik-loco) | Payroll app built with Loco.rs | 2025 |
-| [sitemgr](https://github.com/henno/sitemgr) | Site management tool | 2025 |
-| [forensic-database](https://github.com/henno/forensic-database) | Forensic database teaching project | 2025 |
-| [bitbucket-manager](https://github.com/henno/bitbucket-manager) | Bitbucket repository management tool | 2025 |
-| [riidaja-ylesanded](https://github.com/henno/riidaja-ylesanded) | Programming exercises | 2025–2026 |
-| [api-validator](https://github.com/henno/api-validator) | API validation tool | 2025 |
-| [eero-panga-validaator](https://github.com/henno/eero-panga-validaator) | Bank validator tool | 2025 |
-| [opetaja-assistent2](https://github.com/kriit-eu/opetaja-assistent2) 🔒 | Chrome extension helping teachers fill in Tahvel.edu.ee journals | 2025 |
-| [refreshdb](https://github.com/henno/refreshdb) | Database refresh utility | 2025 |
-| [gildivara.ee-v2](https://github.com/henno/gildivara.ee-v2) 🔒 | Gildivara website v2 | 2025 |
-| [gildivara.ee](https://github.com/henno/gildivara.ee) 🔒 | Gildivara website | 2025 |
-| [kriit](https://github.com/kriit-eu/kriit) 🔒 | Entrance exam and assignment management for IT vocational programs | 2024–2026 |
-| [opetaja-assistent](https://github.com/kriit-eu/opetaja-assistent) 🔒 | Chrome extension helping teachers fill in Tahvel.edu.ee journals | 2024–2025 |
-| [halo](https://github.com/henno/halo) | Basic MVC framework | 2013–2025 |
+| [mikrotik-network-transparency](https://github.com/henno/mikrotik-network-transparency) | Go CLI for mapping MikroTik network topology from device data | 2026 |
+| [zoom-gallery-rust](https://github.com/henno/zoom-gallery-rust) | Rust/Axum web app for browsing and filtering Zoom cloud recordings | 2026 |
+| [scoromaventa](https://github.com/henno/scoromaventa) | PHP integration that sends Scoro invoices to Maventa e-invoicing | 2021–2023 |
+| [topograph](https://github.com/Torva-Vallavalitsus/topograph) 🔒 | TypeScript topology mapper for municipal network infrastructure | 2025–2026 |
+| [ow](https://github.com/Puhastusproff/ow) 🔒 | Purchase invoice management web app for PuhastusProff | 2026 |
+| [saf-web](https://github.com/Puhastusproff/saf-web) 🔒 | Modernized .NET Core web app for SAF workflows | 2026 |
+| [sw](https://github.com/Puhastusproff/sw) 🔒 | Employee intranet web app for PuhastusProff | 2026 |
+| [tihas](https://github.com/Torva-Vallavalitsus/tihas) 🔒 | IT asset inventory and lifecycle management for Tõrva municipality | 2025–2026 |
+| [ithaldus](https://github.com/ithaldus/ithaldus) | Open IT administration and network topology management platform | 2025–2026 |
+| [avif-comparison](https://github.com/henno/avif-comparison) | Browser tool for comparing AVIF, WebP, PNG, and JPEG compression | 2026 |
+| [diarabooks](https://github.com/diarainfra/diarabooks) 🔒 | Accounting and bookkeeping web app for Diara Infra workflows | 2026 |
+| [andmebaaside-alused](https://github.com/henno/andmebaaside-alused) | Teaching materials and exercises for database fundamentals | 2026 |
+| [db2.diarainfra.com](https://github.com/henno/db2.diarainfra.com) 🔒 | Long-running Diara database and business data management system | 2009–2026 |
+| [loputoo-generaator](https://github.com/henno/loputoo-generaator) | Pandoc/LaTeX generator for VIKK-format thesis documents | 2026 |
+| [wireguard-multi](https://github.com/henno/wireguard-multi) | macOS WireGuard GUI for running multiple tunnels at once | 2026 |
+| [kriit-grading](https://github.com/kriit-eu/kriit-grading) | AI-assisted grading service for the Kriit learning platform | 2026 |
+| [ruckus](https://github.com/henno/ruckus) | Go CLI for debugging Ruckus APs in SmartZone and Unleashed modes | 2025 |
+| [zyxel](https://github.com/henno/zyxel) | Go CLI for running SSH commands on Zyxel switches | 2025 |
+| [mt](https://github.com/henno/mt) | Go CLI for executing MikroTik RouterOS API commands | 2025 |
+| [sstp-docker](https://github.com/henno/sstp-docker) | Alpine-based Docker image for running an SSTP VPN server | 2025 |
+| [energiasaastukonsultant](https://github.com/henno/energiasaastukonsultant) 🔒 | Energy consultant website and supporting content management code | 2017–2025 |
+| [ariklubi](https://github.com/henno/ariklubi) 🔒 | Business club web platform for membership and content workflows | 2025 |
+| [bun-topology](https://github.com/henno/bun-topology) | Bun/TypeScript web UI for live network discovery and topology display | 2025 |
+| [go-topology](https://github.com/henno/go-topology) | Go web UI for scanning networks and showing discovered devices | 2025 |
+| [pp-finar](https://github.com/Puhastusproff/pp-finar) 🔒 | PuhastusProff ERP for budgets, salaries, clients, and assets | 2005–2026 |
+| [ruckus-unleashed-migration](https://github.com/henno/ruckus-unleashed-migration) 🔒 | Tooling for migrating and validating Ruckus Unleashed deployments | 2025–2026 |
+| [cookbook](https://bitbucket.org/diarainfra/cookbook) 🔒 | Recipe and cooking management app for household planning | 2025 |
+| [lecture-recording-dashboard](https://github.com/henno/lecture-recording-dashboard) | Dashboard for Zoom recordings, timestamps, Timebolt detection, and Drive sync | 2025–2026 |
+| [palgagraafik-loco](https://github.com/henno/palgagraafik-loco) | Rust/Loco.rs payroll scheduling application prototype | 2025 |
+| [sitemgr](https://github.com/henno/sitemgr) | Shell-based helper for managing website deployments and maintenance | 2025 |
+| [forensic-database](https://github.com/henno/forensic-database) | Teaching project for forensic database modeling and investigation workflows | 2025 |
+| [bitbucket-manager](https://github.com/henno/bitbucket-manager) | TypeScript tool for auditing and managing Bitbucket repositories | 2025 |
+| [riidaja-ylesanded](https://github.com/henno/riidaja-ylesanded) | Programming exercises and examples for Riidaja learners | 2025–2026 |
+| [api-validator](https://github.com/henno/api-validator) | TypeScript utility for validating API schemas and responses | 2025 |
+| [eero-panga-validaator](https://github.com/henno/eero-panga-validaator) | Bank data validator exercise and checking tool | 2025 |
+| [opetaja-assistent2](https://github.com/kriit-eu/opetaja-assistent2) 🔒 | Chrome extension that helps teachers fill Tahvel journals | 2025–2026 |
+| [refreshdb](https://github.com/henno/refreshdb) | PHP utility for refreshing and synchronizing database copies | 2025 |
+| [gildivara.ee-v2](https://github.com/henno/gildivara.ee-v2) 🔒 | Second-generation Gildivara website implementation | 2025 |
+| [gildivara.ee](https://github.com/henno/gildivara.ee) 🔒 | Original Gildivara public website implementation | 2025 |
+| [kriit](https://github.com/kriit-eu/kriit) 🔒 | Entrance exam and assignment management system for IT vocational programs | 2024–2026 |
+| [opetaja-assistent](https://github.com/kriit-eu/opetaja-assistent) 🔒 | TypeScript Chrome extension that helps teachers fill Tahvel journals | 2023–2025 |
+| [halo](https://github.com/henno/halo) | PHP MVC framework used as a lightweight application foundation | 2013–2025 |
 
 *🔒 Private repository – contact me for access*
 
