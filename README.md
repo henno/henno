@@ -78,10 +78,10 @@ I'm **Henno Täht**, a software engineer and educator from Estonia. I teach web 
 | [zoom-gallery-rust](https://github.com/henno/zoom-gallery-rust) | Rust/Axum web app for browsing and filtering Zoom cloud recordings | 2026 |
 | [scoromaventa](https://github.com/henno/scoromaventa) | PHP integration that sends Scoro invoices to Maventa e-invoicing | 2021–2023 |
 | [topograph](https://github.com/Torva-Vallavalitsus/topograph) 🔒 | TypeScript topology mapper for municipal network infrastructure | 2025–2026 |
-| [ow](https://github.com/Puhastusproff/ow) 🔒 | PuhastusProffi ostuarvete halduse veebirakendus | 2026 |
-| [saf-web](https://github.com/Puhastusproff/saf-web) 🔒 | SAF-i moderniseeritud .NET Core veebirakendus | 2026 |
-| [sw](https://github.com/Puhastusproff/sw) 🔒 | PuhastusProffi töötajate siseveebi rakendus | 2026 |
-| [tihas](https://github.com/Torva-Vallavalitsus/tihas) 🔒 | Tõrva valla IT-varade inventari ja elutsükli haldus | 2025–2026 |
+| [ow](https://github.com/Puhastusproff/ow) 🔒 | Purchase invoice management web app for PuhastusProff | 2026 |
+| [saf-web](https://github.com/Puhastusproff/saf-web) 🔒 | Modernized .NET Core web app for SAF workflows | 2026 |
+| [sw](https://github.com/Puhastusproff/sw) 🔒 | Employee intranet web app for PuhastusProff | 2026 |
+| [tihas](https://github.com/Torva-Vallavalitsus/tihas) 🔒 | IT asset inventory and lifecycle management for Tõrva municipality | 2025–2026 |
 | [ithaldus](https://github.com/ithaldus/ithaldus) | Open IT administration and network topology management platform | 2025–2026 |
 | [avif-comparison](https://github.com/henno/avif-comparison) | Browser tool for comparing AVIF, WebP, PNG, and JPEG compression | 2026 |
 | [diarabooks](https://github.com/diarainfra/diarabooks) 🔒 | Accounting and bookkeeping web app for Diara Infra workflows | 2026 |
@@ -98,7 +98,7 @@ I'm **Henno Täht**, a software engineer and educator from Estonia. I teach web 
 | [ariklubi](https://github.com/henno/ariklubi) 🔒 | Business club web platform for membership and content workflows | 2025 |
 | [bun-topology](https://github.com/henno/bun-topology) | Bun/TypeScript web UI for live network discovery and topology display | 2025 |
 | [go-topology](https://github.com/henno/go-topology) | Go web UI for scanning networks and showing discovered devices | 2025 |
-| [pp-finar](https://github.com/Puhastusproff/pp-finar) 🔒 | PuhastusProffi ERP for budgets, salaries, clients, and assets | 2005–2026 |
+| [pp-finar](https://github.com/Puhastusproff/pp-finar) 🔒 | PuhastusProff ERP for budgets, salaries, clients, and assets | 2005–2026 |
 | [ruckus-unleashed-migration](https://github.com/henno/ruckus-unleashed-migration) 🔒 | Tooling for migrating and validating Ruckus Unleashed deployments | 2025–2026 |
 | [cookbook](https://bitbucket.org/diarainfra/cookbook) 🔒 | Recipe and cooking management app for household planning | 2025 |
 | [lecture-recording-dashboard](https://github.com/henno/lecture-recording-dashboard) | Dashboard for Zoom recordings, timestamps, Timebolt detection, and Drive sync | 2025–2026 |
