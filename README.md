@@ -11,6 +11,7 @@ I'm **Henno Täht**, a software engineer and educator from Estonia. I teach web 
 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat&logo=swift&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
@@ -74,6 +75,7 @@ I'm **Henno Täht**, a software engineer and educator from Estonia. I teach web 
 
 | Repository | Description | Years |
 |------------|-------------|-------|
+| [macos-clipboard-manager](https://github.com/henno/macos-clipboard-manager) | Clipboard manager for macOS built for a small idle CPU footprint — Swift, AppKit, no dependencies | 2026 |
 | [mikrotik-network-transparency](https://github.com/henno/mikrotik-network-transparency) | CLI tool for discovering and visualizing network topology from Mikrotik devices | 2026 |
 | [zoom-gallery-rust](https://github.com/henno/zoom-gallery-rust) | Zoom cloud recordings browser built with Rust and Axum | 2026 |
 | [scoromaventa](https://github.com/henno/scoromaventa) | Scoro to Maventa e-invoicing integration | 2026 |
